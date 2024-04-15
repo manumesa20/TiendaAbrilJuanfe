@@ -24,3 +24,14 @@
     opacity: 0.5;
     z-index: -1;
 }
+
+.baner2{
+    background-image: url("./img/baner2.webp");
+    padding:25%;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    color: purple;
+}
